@@ -1249,13 +1249,13 @@ MonoBehaviour:
     m_Start: 0
     m_ClipIn: 0
     m_Asset: {fileID: 8413551794106840391}
-    m_Duration: 1.9999999999999998
+    m_Duration: 2.5
     m_TimeScale: 1
     m_ParentTrack: {fileID: 8460846411982110008}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
     m_BlendInDuration: -1
-    m_BlendOutDuration: 1.9999999999999998
+    m_BlendOutDuration: 2
     m_MixInCurve:
       serializedVersion: 2
       m_Curve:
@@ -1315,15 +1315,15 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: CinemachineCamera (0)
   - m_Version: 1
-    m_Start: 0
+    m_Start: 0.5
     m_ClipIn: 0
     m_Asset: {fileID: -8791439209498062945}
-    m_Duration: 2.999999999999997
+    m_Duration: 2.5
     m_TimeScale: 1
     m_ParentTrack: {fileID: 8460846411982110008}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: 1.9999999999999998
+    m_BlendInDuration: 2
     m_BlendOutDuration: -1
     m_MixInCurve:
       serializedVersion: 2
