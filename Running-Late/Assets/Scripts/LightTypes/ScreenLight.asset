@@ -12,3 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d78c6ed0bee47644b0a51c4e82c0ea9, type: 3}
   m_Name: ScreenLight
   m_EditorClassIdentifier: 
+  color: {r: 0.49803922, g: 0.7490196, b: 1, a: 1}
+  minIntensity: 0.9
+  maxIntensity: 1.1
+  intensityVar: 0.2
+  flickerUpDuration: 0.1
+  flickerDownDuration: 0.1
+  flickerDuration: 0.2
+  minRange: 0.4
+  maxRange: 0.6
+  rangeVar: 0.2
+  flickerUpSpeed: 0.1
+  flickerDownSpeed: 0.1
+  flickerSpeed: 0.2
