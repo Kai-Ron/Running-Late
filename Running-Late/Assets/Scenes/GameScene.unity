@@ -175,15 +175,15 @@ PrefabInstance:
     - target: {fileID: -6832803912183367293, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: -2730041052307568621, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 6f4a635114501b64bbb187fd806cae29, type: 2}
+      objectReference: {fileID: 2100000, guid: 307389269268ead4b82d7f8e546c754d, type: 2}
     - target: {fileID: 865765071964413245, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: 919132149155446097, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: m_Name
       value: CorridoorMiddle (3)
@@ -191,7 +191,7 @@ PrefabInstance:
     - target: {fileID: 6749305924031001305, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 05859e16ab7ddc84eab4468ec4f51c5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9161c972cb158374c8bb9624f17f63fd, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -398,15 +398,15 @@ PrefabInstance:
     - target: {fileID: -6832803912183367293, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: -2730041052307568621, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 6f4a635114501b64bbb187fd806cae29, type: 2}
+      objectReference: {fileID: 2100000, guid: 307389269268ead4b82d7f8e546c754d, type: 2}
     - target: {fileID: 865765071964413245, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: 919132149155446097, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: m_Name
       value: CorridoorMiddle (9)
@@ -414,7 +414,7 @@ PrefabInstance:
     - target: {fileID: 6749305924031001305, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 05859e16ab7ddc84eab4468ec4f51c5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9161c972cb158374c8bb9624f17f63fd, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -669,67 +669,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4865064391339405807, guid: 45bdb22daa16a294dac0ce983d659106, type: 3}
   m_PrefabInstance: {fileID: 807556095}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &392925884
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -24.524536
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.009234951
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -65.055
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071067
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -7511558181221131132, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
-      propertyPath: 'm_Materials.Array.data[0]'
-      value: 
-      objectReference: {fileID: 2100000, guid: abe31bbdb0b25e94cb10f6773139ed14, type: 2}
-    - target: {fileID: 919132149155446097, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
-      propertyPath: m_Name
-      value: corridoorFloorSign
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
 --- !u!1001 &407368580
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -781,15 +720,15 @@ PrefabInstance:
     - target: {fileID: -6832803912183367293, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: -2730041052307568621, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 6f4a635114501b64bbb187fd806cae29, type: 2}
+      objectReference: {fileID: 2100000, guid: 307389269268ead4b82d7f8e546c754d, type: 2}
     - target: {fileID: 865765071964413245, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: 919132149155446097, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: m_Name
       value: CorridoorMiddle (7)
@@ -797,7 +736,7 @@ PrefabInstance:
     - target: {fileID: 6749305924031001305, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 05859e16ab7ddc84eab4468ec4f51c5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9161c972cb158374c8bb9624f17f63fd, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1134,15 +1073,15 @@ PrefabInstance:
     - target: {fileID: -6832803912183367293, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: -2730041052307568621, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 6f4a635114501b64bbb187fd806cae29, type: 2}
+      objectReference: {fileID: 2100000, guid: 307389269268ead4b82d7f8e546c754d, type: 2}
     - target: {fileID: 865765071964413245, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: 919132149155446097, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: m_Name
       value: CorridoorMiddle (11)
@@ -1150,7 +1089,7 @@ PrefabInstance:
     - target: {fileID: 6749305924031001305, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 05859e16ab7ddc84eab4468ec4f51c5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9161c972cb158374c8bb9624f17f63fd, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1784,15 +1723,15 @@ PrefabInstance:
     - target: {fileID: -6832803912183367293, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: -2730041052307568621, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 6f4a635114501b64bbb187fd806cae29, type: 2}
+      objectReference: {fileID: 2100000, guid: 307389269268ead4b82d7f8e546c754d, type: 2}
     - target: {fileID: 865765071964413245, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: 919132149155446097, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: m_Name
       value: CorridoorMiddle (4)
@@ -1800,7 +1739,7 @@ PrefabInstance:
     - target: {fileID: 6749305924031001305, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 05859e16ab7ddc84eab4468ec4f51c5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9161c972cb158374c8bb9624f17f63fd, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2007,15 +1946,15 @@ PrefabInstance:
     - target: {fileID: -6832803912183367293, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: -2730041052307568621, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 6f4a635114501b64bbb187fd806cae29, type: 2}
+      objectReference: {fileID: 2100000, guid: 307389269268ead4b82d7f8e546c754d, type: 2}
     - target: {fileID: 865765071964413245, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: 919132149155446097, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: m_Name
       value: CorridoorMiddle
@@ -2023,7 +1962,7 @@ PrefabInstance:
     - target: {fileID: 6749305924031001305, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 05859e16ab7ddc84eab4468ec4f51c5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9161c972cb158374c8bb9624f17f63fd, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2838,15 +2777,15 @@ PrefabInstance:
     - target: {fileID: -6832803912183367293, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: -2730041052307568621, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 6f4a635114501b64bbb187fd806cae29, type: 2}
+      objectReference: {fileID: 2100000, guid: 307389269268ead4b82d7f8e546c754d, type: 2}
     - target: {fileID: 865765071964413245, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: 919132149155446097, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: m_Name
       value: CorridoorMiddle (6)
@@ -2854,7 +2793,7 @@ PrefabInstance:
     - target: {fileID: 6749305924031001305, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 05859e16ab7ddc84eab4468ec4f51c5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9161c972cb158374c8bb9624f17f63fd, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2916,15 +2855,15 @@ PrefabInstance:
     - target: {fileID: -6832803912183367293, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: -2730041052307568621, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 6f4a635114501b64bbb187fd806cae29, type: 2}
+      objectReference: {fileID: 2100000, guid: 307389269268ead4b82d7f8e546c754d, type: 2}
     - target: {fileID: 865765071964413245, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: 919132149155446097, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: m_Name
       value: CorridoorMiddle (8)
@@ -2932,7 +2871,7 @@ PrefabInstance:
     - target: {fileID: 6749305924031001305, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 05859e16ab7ddc84eab4468ec4f51c5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9161c972cb158374c8bb9624f17f63fd, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3064,15 +3003,15 @@ PrefabInstance:
     - target: {fileID: -6832803912183367293, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: -2730041052307568621, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 6f4a635114501b64bbb187fd806cae29, type: 2}
+      objectReference: {fileID: 2100000, guid: 307389269268ead4b82d7f8e546c754d, type: 2}
     - target: {fileID: 865765071964413245, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: 919132149155446097, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: m_Name
       value: CorridoorMiddle (1)
@@ -3080,7 +3019,7 @@ PrefabInstance:
     - target: {fileID: 6749305924031001305, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 05859e16ab7ddc84eab4468ec4f51c5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9161c972cb158374c8bb9624f17f63fd, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3870,11 +3809,11 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 664a9fc34b789df459da621e9905fb0e, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: fde45785f82878a43958edb1ea2f55dd, type: 2}
+      objectReference: {fileID: 2100000, guid: 22a61374ffee58b41b95506762587e63, type: 2}
     - target: {fileID: -7511558181221131132, guid: 664a9fc34b789df459da621e9905fb0e, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: abd5dd76b43207d4b9e5652c918fbb8a, type: 2}
+      objectReference: {fileID: 2100000, guid: 4393910fdb8b885489f1621841975f20, type: 2}
     - target: {fileID: 919132149155446097, guid: 664a9fc34b789df459da621e9905fb0e, type: 3}
       propertyPath: m_Name
       value: corridoorChair
@@ -4646,31 +4585,31 @@ PrefabInstance:
     - target: {fileID: -8492384872361073886, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: -6398751613043780137, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 05859e16ab7ddc84eab4468ec4f51c5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9161c972cb158374c8bb9624f17f63fd, type: 2}
     - target: {fileID: -4685120951509458883, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: ad10ec798cb505e4ba1890cbf783c754, type: 2}
+      objectReference: {fileID: 2100000, guid: 537ceca18c162504a828184919f27993, type: 2}
     - target: {fileID: -3057147933212194604, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: b52fd6f6259e92c4e948edc77ef0d136, type: 2}
+      objectReference: {fileID: 2100000, guid: b0adfd5eb0bfe7b40aced451dbd7027a, type: 2}
     - target: {fileID: -1080608893359039621, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: -475543913799778445, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 00f7d3a58e8eb3c4fa1696a461e2d79a, type: 2}
+      objectReference: {fileID: 2100000, guid: c0508043ce4754c42b8691bd93dc05c2, type: 2}
     - target: {fileID: -267388480630076389, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: b52fd6f6259e92c4e948edc77ef0d136, type: 2}
+      objectReference: {fileID: 2100000, guid: b0adfd5eb0bfe7b40aced451dbd7027a, type: 2}
     - target: {fileID: 919132149155446097, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: m_Name
       value: CorridoorCorner
@@ -4678,11 +4617,11 @@ PrefabInstance:
     - target: {fileID: 3209830686456219430, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 6f4a635114501b64bbb187fd806cae29, type: 2}
+      objectReference: {fileID: 2100000, guid: 307389269268ead4b82d7f8e546c754d, type: 2}
     - target: {fileID: 6147219020956137290, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 00f7d3a58e8eb3c4fa1696a461e2d79a, type: 2}
+      objectReference: {fileID: 2100000, guid: c0508043ce4754c42b8691bd93dc05c2, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4844,15 +4783,15 @@ PrefabInstance:
     - target: {fileID: -6832803912183367293, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: -2730041052307568621, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 6f4a635114501b64bbb187fd806cae29, type: 2}
+      objectReference: {fileID: 2100000, guid: 307389269268ead4b82d7f8e546c754d, type: 2}
     - target: {fileID: 865765071964413245, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: 919132149155446097, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: m_Name
       value: CorridoorMiddle (12)
@@ -4860,7 +4799,7 @@ PrefabInstance:
     - target: {fileID: 6749305924031001305, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 05859e16ab7ddc84eab4468ec4f51c5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9161c972cb158374c8bb9624f17f63fd, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4871,6 +4810,67 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
   m_PrefabInstance: {fileID: 691309514}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1659121626
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -24.52853
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.009234951
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -64.25499
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 93159bf7bf706f44e9682631a4527f86, type: 2}
+    - target: {fileID: 919132149155446097, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
+      propertyPath: m_Name
+      value: corridoorFloorSign
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5cc807ec02e783247b6d4e4964d277f3, type: 3}
 --- !u!1 &1671339022
 GameObject:
   m_ObjectHideFlags: 0
@@ -5332,15 +5332,15 @@ PrefabInstance:
     - target: {fileID: -6832803912183367293, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: -2730041052307568621, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 6f4a635114501b64bbb187fd806cae29, type: 2}
+      objectReference: {fileID: 2100000, guid: 307389269268ead4b82d7f8e546c754d, type: 2}
     - target: {fileID: 865765071964413245, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: 919132149155446097, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: m_Name
       value: CorridoorMiddle (2)
@@ -5348,7 +5348,7 @@ PrefabInstance:
     - target: {fileID: 6749305924031001305, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 05859e16ab7ddc84eab4468ec4f51c5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9161c972cb158374c8bb9624f17f63fd, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5405,15 +5405,15 @@ PrefabInstance:
     - target: {fileID: -6832803912183367293, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: -2730041052307568621, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 6f4a635114501b64bbb187fd806cae29, type: 2}
+      objectReference: {fileID: 2100000, guid: 307389269268ead4b82d7f8e546c754d, type: 2}
     - target: {fileID: 865765071964413245, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: 919132149155446097, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: m_Name
       value: CorridoorMiddle (10)
@@ -5421,7 +5421,7 @@ PrefabInstance:
     - target: {fileID: 6749305924031001305, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 05859e16ab7ddc84eab4468ec4f51c5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9161c972cb158374c8bb9624f17f63fd, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6301,7 +6301,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 347dc6320b83b5b469432ca4ed1f646a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: db17524ba3687ba498c7b8b3c34974c1, type: 2}
+      objectReference: {fileID: 2100000, guid: e0012fcab61b6364bb4926a4e1b319a6, type: 2}
     - target: {fileID: -7511558181221131132, guid: 347dc6320b83b5b469432ca4ed1f646a, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
@@ -6370,19 +6370,19 @@ PrefabInstance:
     - target: {fileID: -5277036676484927288, guid: 6a563557cb3b0f14eaee62f1613fc7a6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: b52fd6f6259e92c4e948edc77ef0d136, type: 2}
+      objectReference: {fileID: 2100000, guid: b0adfd5eb0bfe7b40aced451dbd7027a, type: 2}
     - target: {fileID: -5183880413120813545, guid: 6a563557cb3b0f14eaee62f1613fc7a6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: ad10ec798cb505e4ba1890cbf783c754, type: 2}
+      objectReference: {fileID: 2100000, guid: 537ceca18c162504a828184919f27993, type: 2}
     - target: {fileID: -3230359877503427227, guid: 6a563557cb3b0f14eaee62f1613fc7a6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 6f4a635114501b64bbb187fd806cae29, type: 2}
+      objectReference: {fileID: 2100000, guid: 307389269268ead4b82d7f8e546c754d, type: 2}
     - target: {fileID: -85744201872177665, guid: 6a563557cb3b0f14eaee62f1613fc7a6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 05859e16ab7ddc84eab4468ec4f51c5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9161c972cb158374c8bb9624f17f63fd, type: 2}
     - target: {fileID: 919132149155446097, guid: 6a563557cb3b0f14eaee62f1613fc7a6, type: 3}
       propertyPath: m_Name
       value: CorridoorEnd
@@ -6390,27 +6390,27 @@ PrefabInstance:
     - target: {fileID: 1318803543628549196, guid: 6a563557cb3b0f14eaee62f1613fc7a6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: 2698895488618873727, guid: 6a563557cb3b0f14eaee62f1613fc7a6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 0a826bffa9fbc8c42b24fc54c0059b27, type: 2}
+      objectReference: {fileID: 2100000, guid: ecfea1c874f16904fa81a1ec6f26306e, type: 2}
     - target: {fileID: 5723623106617691631, guid: 6a563557cb3b0f14eaee62f1613fc7a6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: 6292554525566212283, guid: 6a563557cb3b0f14eaee62f1613fc7a6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: b52fd6f6259e92c4e948edc77ef0d136, type: 2}
+      objectReference: {fileID: 2100000, guid: b0adfd5eb0bfe7b40aced451dbd7027a, type: 2}
     - target: {fileID: 6428028152542648752, guid: 6a563557cb3b0f14eaee62f1613fc7a6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 0a826bffa9fbc8c42b24fc54c0059b27, type: 2}
+      objectReference: {fileID: 2100000, guid: ecfea1c874f16904fa81a1ec6f26306e, type: 2}
     - target: {fileID: 8863706329712738696, guid: 6a563557cb3b0f14eaee62f1613fc7a6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6467,15 +6467,15 @@ PrefabInstance:
     - target: {fileID: -6832803912183367293, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: -2730041052307568621, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 6f4a635114501b64bbb187fd806cae29, type: 2}
+      objectReference: {fileID: 2100000, guid: 307389269268ead4b82d7f8e546c754d, type: 2}
     - target: {fileID: 865765071964413245, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: 919132149155446097, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: m_Name
       value: CorridoorMiddle (5)
@@ -6483,7 +6483,7 @@ PrefabInstance:
     - target: {fileID: 6749305924031001305, guid: aa4cc6426a9e6e64ca48eac54b894364, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 05859e16ab7ddc84eab4468ec4f51c5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9161c972cb158374c8bb9624f17f63fd, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7356,23 +7356,23 @@ PrefabInstance:
     - target: {fileID: -8492384872361073886, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: -6398751613043780137, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 05859e16ab7ddc84eab4468ec4f51c5d, type: 2}
+      objectReference: {fileID: 2100000, guid: 9161c972cb158374c8bb9624f17f63fd, type: 2}
     - target: {fileID: -4685120951509458883, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: ad10ec798cb505e4ba1890cbf783c754, type: 2}
+      objectReference: {fileID: 2100000, guid: 537ceca18c162504a828184919f27993, type: 2}
     - target: {fileID: -3057147933212194604, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: b52fd6f6259e92c4e948edc77ef0d136, type: 2}
+      objectReference: {fileID: 2100000, guid: b0adfd5eb0bfe7b40aced451dbd7027a, type: 2}
     - target: {fileID: -1080608893359039621, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 2a76d7180bc6fd543ac3543937889e54, type: 2}
+      objectReference: {fileID: 2100000, guid: 75cf4be10f7222d44b1bceefd31d6959, type: 2}
     - target: {fileID: -475543913799778445, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -7380,7 +7380,7 @@ PrefabInstance:
     - target: {fileID: -267388480630076389, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: b52fd6f6259e92c4e948edc77ef0d136, type: 2}
+      objectReference: {fileID: 2100000, guid: b0adfd5eb0bfe7b40aced451dbd7027a, type: 2}
     - target: {fileID: 919132149155446097, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: m_Name
       value: CorridoorCorner (1)
@@ -7388,11 +7388,35 @@ PrefabInstance:
     - target: {fileID: 3209830686456219430, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 6f4a635114501b64bbb187fd806cae29, type: 2}
+      objectReference: {fileID: 2100000, guid: 307389269268ead4b82d7f8e546c754d, type: 2}
     - target: {fileID: 6147219020956137290, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: 00f7d3a58e8eb3c4fa1696a461e2d79a, type: 2}
+    - target: {fileID: 6600325775480883796, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.50008726
+      objectReference: {fileID: 0}
+    - target: {fileID: 6600325775480883796, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.49991274
+      objectReference: {fileID: 0}
+    - target: {fileID: 6600325775480883796, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.50008726
+      objectReference: {fileID: 0}
+    - target: {fileID: 6600325775480883796, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.49991274
+      objectReference: {fileID: 0}
+    - target: {fileID: 6600325775480883796, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -89.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 6600325775480883796, guid: 537f822fda25be749bf70430a26aa50a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7413,7 +7437,7 @@ SceneRoots:
   - {fileID: 1190573541}
   - {fileID: 807556095}
   - {fileID: 1301410104}
-  - {fileID: 392925884}
   - {fileID: 1964145513}
   - {fileID: 881518198}
   - {fileID: 531158307}
+  - {fileID: 1659121626}
