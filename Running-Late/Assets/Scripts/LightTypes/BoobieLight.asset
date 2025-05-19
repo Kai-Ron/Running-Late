@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d78c6ed0bee47644b0a51c4e82c0ea9, type: 3}
+  m_Name: BoobieLight
+  m_EditorClassIdentifier: 
+  color: {r: 0.82641506, g: 0.66806775, b: 0.50364536, a: 0}
+  minIntensity: 150
+  maxIntensity: 400
+  intensityVar: 20
+  flickerUpDuration: 2
+  flickerDownDuration: 2
+  flickerDuration: 4
+  minRange: 8
+  maxRange: 9
+  rangeVar: 5
+  flickerUpSpeed: 3
+  flickerDownSpeed: 2
+  flickerSpeed: 1
