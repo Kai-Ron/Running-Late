@@ -1,13 +1,19 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 using System.Collections;
 
 public class UIScript : MonoBehaviour
 {
+    public Image image;
+    public Color on, off;
+    public float delay;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        image = gameObject.GetComponent<Image>();
+        StartCoroutine(OpenScene());
     }
 
     // Update is called once per frame
@@ -30,5 +36,20 @@ public class UIScript : MonoBehaviour
         {
             SceneManager.LoadScene(1);
         }
+    }
+
+    public IEnumerator OpenScene()
+    {
+        float time = 0;
+
+        while(delay > time)
+        {
+            float ratio = time/delay;
+            image.color = Color.Lerp(on, off, ratio);
+            time += Time.fixedDeltaTime;
+            yield return new WaitForSeconds(Time.fixedDeltaTime);
+        }
+
+        image.enabled = false;
     }
 }

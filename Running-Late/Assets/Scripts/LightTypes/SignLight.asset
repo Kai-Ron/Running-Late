@@ -13,15 +13,15 @@ MonoBehaviour:
   m_Name: SignLight
   m_EditorClassIdentifier: 
   color: {r: 0.003921569, g: 1, b: 0.015686275, a: 1}
-  minIntensity: 1
-  maxIntensity: 25
-  intensityVar: 1
+  minIntensity: 45
+  maxIntensity: 55
+  intensityVar: 20
   flickerUpDuration: 2
-  flickerDownDuration: 3
-  flickerDuration: 1
+  flickerDownDuration: 2
+  flickerDuration: 2
   minRange: 5
   maxRange: 10
   rangeVar: 10
-  flickerUpSpeed: 3
+  flickerUpSpeed: 2
   flickerDownSpeed: 2
-  flickerSpeed: 1
+  flickerSpeed: 2
