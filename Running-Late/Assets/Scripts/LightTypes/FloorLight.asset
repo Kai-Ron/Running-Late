@@ -12,8 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8d78c6ed0bee47644b0a51c4e82c0ea9, type: 3}
   m_Name: FloorLight
   m_EditorClassIdentifier: 
-  color: {r: 0, g: 0, b: 0, a: 0}
-  minIntensity: 0
-  maxIntensity: 0
-  flickerDuration: 0
-  range: 0
+  color: {r: 1, g: 0.011764706, b: 0.011764706, a: 1}
+  minIntensity: 50
+  maxIntensity: 75
+  intensityVar: 50
+  flickerUpDuration: 5
+  flickerDownDuration: 5
+  flickerDuration: 5
+  minRange: 8
+  maxRange: 12
+  rangeVar: 4
+  flickerUpSpeed: 2
+  flickerDownSpeed: 2
+  flickerSpeed: 2

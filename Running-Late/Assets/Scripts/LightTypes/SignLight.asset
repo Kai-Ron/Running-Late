@@ -19,4 +19,9 @@ MonoBehaviour:
   flickerUpDuration: 2
   flickerDownDuration: 3
   flickerDuration: 1
-  range: 10
+  minRange: 5
+  maxRange: 10
+  rangeVar: 10
+  flickerUpSpeed: 3
+  flickerDownSpeed: 2
+  flickerSpeed: 1

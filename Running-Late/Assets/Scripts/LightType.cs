@@ -6,5 +6,6 @@ public class LightType : ScriptableObject
     public Color color;
     public float minIntensity, maxIntensity, intensityVar;
     public float flickerUpDuration, flickerDownDuration, flickerDuration;
-    public float range;
+    public float minRange, maxRange, rangeVar;
+    public float flickerUpSpeed, flickerDownSpeed, flickerSpeed;
 }
