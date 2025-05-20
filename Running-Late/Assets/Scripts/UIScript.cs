@@ -46,7 +46,9 @@ public class UIScript : MonoBehaviour
     public IEnumerator ChangeScene()
     {
 
-        yield return new WaitForSeconds(62.0f);
+        yield return new WaitForSeconds(52.0f);
+
+        image.color = on;
 
         SceneManager.LoadScene(1);
     }
