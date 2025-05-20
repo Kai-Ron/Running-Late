@@ -38,6 +38,19 @@ public class UIScript : MonoBehaviour
         }
     }
 
+    public void End()
+    {
+        StartCoroutine(ChangeScene());
+    }
+
+    public IEnumerator ChangeScene()
+    {
+
+        yield return new WaitForSeconds(62.0f);
+
+        SceneManager.LoadScene(1);
+    }
+
     public IEnumerator OpenScene()
     {
         float time = 0;
